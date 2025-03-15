@@ -1,0 +1,1 @@
+la carpeta imágenes debe estar en el mismo directorio que figuras.jar, para que pueda mostrar las imágenes en el programa
